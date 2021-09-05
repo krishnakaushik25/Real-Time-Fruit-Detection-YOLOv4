@@ -1,0 +1,3 @@
+/content/gdrive/MyDrive/Object_Detection/images/plane.png
+/content/gdrive/MyDrive/Object_Detection/images/horses.png
+/content/gdrive/MyDrive/Object_Detection/images/street.png
