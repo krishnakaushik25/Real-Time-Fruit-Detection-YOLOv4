@@ -77,19 +77,19 @@ ALL the Steps are written in a detailed manner in Solution_YOLO.pdf file.
 
 7. Building YOLOv4 object detector
 
-8.Understanding how to use pre-trained models of YOLO
+8. Understanding how to use pre-trained models of YOLO
 
 9. Customizing YOLOv4 using command line flags
 
-10.Preparing dataset for training YOLOv4
+10. Preparing dataset for training YOLOv4
 
-11.Training Custom Object Detector with YOLO
+11. Training Custom Object Detector with YOLO
 
-12.Training YOLO model using checkpoints
+12. Training YOLO model using checkpoints
 
-13.Understanding Mean Average Precision
+13. Understanding Mean Average Precision
 
-14.Storing and displaying detected classes in an image
+14. Storing and displaying detected classes in an image
 
-15.Predictions on a video
+15. Predictions on a video
     
