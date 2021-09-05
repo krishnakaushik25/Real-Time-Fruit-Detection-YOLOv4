@@ -52,7 +52,9 @@ Star⭐ the repo if you like what you see😉.
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 ● Object detection: YOLOv4
+
 ● Data annotation: LabelImg
+
 ● Environment: Google Colab
 
 ## Approach Steps
