@@ -8,7 +8,7 @@ Built an accurate, fast, and reliable real-time fruit detection system using the
 <br />
 <p align="center">
   <a href="https://github.com/krishnakaushik25/Real-Time-Fruit-Detection-YOLOv4">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8ntX7YHE8PWb2WBJgMbSeXVWgRzkebOQAU6UfQ1mZtJp57gD9xMuj1RFPt27cFujQnM&usqp=CAU" alt="Logo" width="180" height="180">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa8ntX7YHE8PWb2WBJgMbSeXVWgRzkebOQAU6UfQ1mZtJp57gD9xMuj1RFPt27cFujQnM&usqp=CAU" alt="Logo" width="425" height="320">
   </a>
 
   <h3 align="center">Fruit detection using YOLOv4</h3>
